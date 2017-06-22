@@ -2,7 +2,7 @@
 title: "test"
 author: "Eric Lin"
 date: "June 22, 2017"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r}
