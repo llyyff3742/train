@@ -1,0 +1,11 @@
+---
+title: "test"
+author: "Eric Lin"
+date: "June 22, 2017"
+output: html_document
+---
+
+```{r}
+plot(rnorm(100),rnorm(100))
+```
+
